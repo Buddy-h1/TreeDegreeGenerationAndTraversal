@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\buddy\source\repos\tree (degree 4), generation and traversal\tree (degree 4), generation and traversal\main.cpp(84,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\buddy\source\repos\tree (degree 4), generation and traversal\tree (degree 4), generation and traversal\main.cpp(86,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\buddy\source\repos\tree (degree 4), generation and traversal\tree (degree 4), generation and traversal\main.cpp(190): warning C4715: Tree::GoLeaf: значение возвращается не при всех путях выполнения
+  tree (degree 4), generation and traversal.vcxproj -> C:\Users\buddy\source\repos\tree (degree 4), generation and traversal\Debug\tree (degree 4), generation and traversal.exe
